@@ -57,9 +57,8 @@ Start a new session and then type ```ping www.example.com``` and copy the IP add
 
 
 # Sources
- * Github https://github.com/Sunnyji7256
- * Gitlab Project https://gitlab.com/Sunnyji7256/resources
-
+ * Github
+ * https://github.com/Sunnyji7256
 
 # Screenshot
 
